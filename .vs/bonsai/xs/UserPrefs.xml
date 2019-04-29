@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A17D73CA-675A-6CAD-2F34-6D9E2FA936FE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenuController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PickSprite.cs" Line="14" Column="67" />
+      <File FileName="Assets/Scripts/ScissorsController.cs" Line="31" Column="73" />
+      <File FileName="Assets/Scripts/TreePartController.cs" Line="10" Column="24" />
+      <File FileName="Assets/Scripts/Distraction.cs" Line="50" Column="45" />
+      <File FileName="Assets/Scripts/FinishLevel.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/MainMenuController.cs" Line="20" Column="19" />
+      <File FileName="Assets/Scripts/BGMController.cs" Line="21" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
